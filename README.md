@@ -19,7 +19,7 @@ The steps for this Challenge are divided into the following sections:
 
 ![image](https://github.com/AthuraThava/module_20_challenge/assets/125240804/2464b3f3-44fd-40e9-918d-ead9b13b3a97)
 
-### Deploy & Run Transactions
+### Deploy & Run Transactions:
 
 ![image](https://github.com/AthuraThava/module_20_challenge/assets/125240804/abd6ebd2-0ae7-423c-bd90-7eb183f51991)
 
@@ -49,3 +49,22 @@ The steps for this Challenge are divided into the following sections:
 
 ### Transaction 3: 5 Ether
 
+![image](https://github.com/AthuraThava/module_20_challenge/assets/125240804/4789c373-1f42-4d8b-98fa-909087c340ea)
+
+![image](https://github.com/AthuraThava/module_20_challenge/assets/125240804/40b456ab-dffa-4cb8-bc07-1f2645d07e24)
+
+![image](https://github.com/AthuraThava/module_20_challenge/assets/125240804/f273c487-1a15-4d6f-ac39-c53716b3ec8f)
+
+## Withdrawals
+
+### Withdrawal 1: 5 ether to account1
+
+![image](https://github.com/AthuraThava/module_20_challenge/assets/125240804/4aaefbf6-e3ef-45a8-9052-437d7d123331)
+
+![image](https://github.com/AthuraThava/module_20_challenge/assets/125240804/e4a24ae3-4490-40c3-a118-56ae73b03a21)
+
+### Withdrawal 2: 10 ether to account2
+
+![image](https://github.com/AthuraThava/module_20_challenge/assets/125240804/b3093305-c955-4223-bb48-e78dcc5761c4)
+
+![image](https://github.com/AthuraThava/module_20_challenge/assets/125240804/34dd8916-2046-4f52-ba71-e7d5f7b97664)
